@@ -1,4 +1,5 @@
 [build-system]
+install_requires = tensorflow == 2.18.0
 requires = ["setuptools", "wheel"]
 build-backend = "setuptools.build_meta"
 
